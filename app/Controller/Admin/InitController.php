@@ -51,6 +51,7 @@ class InitController extends AbstractController
                             }
                         }
                         $k2++;
+                        $k3=0;
                     }
                 }
                 $k1++;
